@@ -1,0 +1,21 @@
+{
+  "name": "bond.js",
+  "version": "0.0.0",
+  "description": "promise/a+ implementation",
+  "main": "bond.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests test/adaptor"
+  },
+  "repository": "",
+  "keywords": [
+    "promises"
+  ],
+  "author": "Seth McLaughlin",
+  "license": "BSD",
+  "devDependencies": {
+    "promises-aplus-tests": "*"
+  }
+}
